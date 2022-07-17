@@ -1,0 +1,10 @@
+{
+  "name": "Left Expander",
+  "short_description": "Makes it so moving the mouse anywhere along the left side will expand the left sidebar. Handy if you like the left sidebar collapsed when writing but find youself hunting for the tiny menu button to expand it.",
+  "author": "Oliver Schmid",
+  "tags": [],
+  "source_url": "https://github.com/oschmid/left-expander",
+  "source_repo": "https://github.com/oschmid/left-expander.git",
+  "source_commit": "e30330995a0e0de310bbde41f09e2168b0b9b975",
+  "stripe_account": "" // optional
+}
